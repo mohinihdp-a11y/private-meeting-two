@@ -1,0 +1,6 @@
+{
+  "name": "Private Meeting",
+  "description": "A premium real-time video conferencing application inspired by Google Meet with interactive collaborative features and built-in AI meetings assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
